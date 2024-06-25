@@ -1,0 +1,10 @@
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\bin\Debug\Ranorex Automation Helpers.xml
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\bin\Debug\Ranorex Automation Helpers.dll
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\bin\Debug\Ranorex Automation Helpers.pdb
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\bin\Debug\Ranorex.ReportToPDF.exe
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\obj\x86\Debug\Ranorex Automation Helpers.csproj.AssemblyReference.cache
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\obj\x86\Debug\Ranorex Automation Helpers.csproj.CoreCompileInputs.cache
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\obj\x86\Debug\Ranorex Automation Helpers.csproj.CopyComplete
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\obj\x86\Debug\Ranorex Automation Helpers.dll
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\RanorexAutomationHelpers\obj\x86\Debug\Ranorex Automation Helpers.pdb

@@ -1,0 +1,16 @@
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\MyTest1.rxtmg
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\MyTest1.rxtst
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\MyTest1.exe.config
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\MyTest1.xml
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\MyTest1.exe
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\MyTest1.pdb
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\Ranorex Automation Helpers.dll
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\Ranorex.ReportToPDF.exe
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\Ranorex Automation Helpers.pdb
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\Ranorex Automation Helpers.xml
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\obj\x86\Debug\MyTest1.csproj.AssemblyReference.cache
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\obj\x86\Debug\MyTest1.csproj.CoreCompileInputs.cache
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\obj\x86\Debug\MyTest1.csproj.CopyComplete
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\obj\x86\Debug\MyTest1.exe
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\obj\x86\Debug\MyTest1.pdb
